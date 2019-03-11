@@ -4,7 +4,7 @@ Data integration is an important part of working with data. In this project, we 
 ### Extract 
 Extract data from:
 * [NBA Player of Week](Resources/NBA_player_of_the_week.csv)
-* [NBA Players - Basic Season Stats][(Resources/NBA Players - Basic Season Stats (1950-2017).csv)]
+* [NBA Players - Basic Season Stats][(Resources/NBA Players - Basic Season Stats%281950-2017%29.csv)]
 
 ### Transfrom
 * Combine datasets and include only those players that have won Player of the Week in their careers.
